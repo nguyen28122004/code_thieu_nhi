@@ -17,4 +17,4 @@ Input|Output
 30	15|32768
 40	14|2125764
 
-**Lưu ý:** Có thể sử dụng file grtCase.cpp để tạo case hàng loạt.
+**Lưu ý:** Có thể sử dụng file **grtCase.cpp** để tạo case hàng loạt.
